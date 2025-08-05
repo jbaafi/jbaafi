@@ -1,3 +1,5 @@
+![GitHub Profile Banner](banner.png)
+
 # Hi there 👋
 
 I am a **PhD researcher in Mathematical Biology** specializing in **climate-driven vector population modeling**, **ecological simulation**, and **data analysis**.  
