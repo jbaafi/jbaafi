@@ -1,4 +1,4 @@
-![GitHub Profile Banner](banner.png)
+![GitHub Profile Banner](banner2.png)
 
 # Hi there 👋
 
