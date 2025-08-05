@@ -8,5 +8,6 @@ My work integrates R and statistical methods to understand mosquito population d
 🔹 [Sensitivity Analysis](https://github.com/jbaafi/Sensitivity-Analysis)  
 
 📊 Skills: R, Python, ggplot2, deSolve, LHS/PRCC, LaTeX, Scientific Computing
+
 🌐 [Website](https://jbaafi.github.io/joseph.baafi/) | [LinkedIn](https://www.linkedin.com/in/josephbaafi/)
 
