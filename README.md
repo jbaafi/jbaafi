@@ -2,7 +2,7 @@
 
 I am a **PhD researcher in Mathematical Biology** specializing in **climate-driven vector population modeling**, **ecological simulation**, and **data-driven analysis** to support public health and environmental decision-making.
 
-I integrate **deterministic and stochastic modeling**, **statistical analysis**, and **scientific computing** using **R** and **Python**.  
+I integrate **deterministic and stochastic modeling**, **statistical analysis**, and **scientific computing** using **R**.
 My research spans **mosquito population dynamics**, **climate data processing**, and **parameter sensitivity analysis**.
 
 ---
